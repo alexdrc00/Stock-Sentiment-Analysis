@@ -1,1 +1,1 @@
-# StockTweetsSentimentAnalysis
+# StockSentimentAnalysis
