@@ -16,7 +16,7 @@ The steps will be:
 <li>EDA (Explore dataset)
 <li>Data Preprocessing (Clean tweets)
 <li>Feature Engineering and Selection (Remove length of tweets and leave text_clean and sentiment columns)
-<li>Model development (Naive-Bayes, BERT nad Roberta)
+<li>Model development (Naive-Bayes, BERT and Roberta)
 <li>Model evaluation
 </ol>
 We performed these steps once with the initial dataset and a second time with an enriched one.</p>
